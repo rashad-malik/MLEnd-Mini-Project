@@ -1,7 +1,3 @@
-Here’s a draft for a more complete README based on the information you’ve provided:
-
----
-
 # **Who's Fibbing? - Detecting Deception in Spoken Narratives**
 
 This repository contains the code and resources for a mini-project that explores detecting deception in spoken narratives using machine learning models. The project processes audio data, extracts meaningful features, and builds predictive models to classify whether a story is true or deceptive.
