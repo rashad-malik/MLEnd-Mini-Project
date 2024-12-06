@@ -34,7 +34,7 @@ MLEnd Mini Project/
 ├── README.md                             # Project documentation
 ```
 
-The main notebook, **"Whos fibbing.ipynb"**, contains the entire workflow, from data preparation to model evaluation. You can view this in as a HTML file.
+The main notebook, **"Whos fibbing.ipynb"**, contains the entire workflow, from data preparation to model evaluation. You can view this as a [HTML file](https://rashad-malik.github.io/MLEnd-Mini-Project/Whos_fibbing.html).
 
 ---
 
