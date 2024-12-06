@@ -21,7 +21,7 @@ This project uses the **MLEnd Deception Dataset**, a collection of audio files, 
 MLEnd Mini Project/
 ├── notebooks/
 │   ├── Experimental code.ipynb           # Miscellaneous exploration and test code
-│   ├── Whos fibbing.ipynb                # Main project notebook
+│   ├── Whos_fibbing.ipynb                # Main project notebook
 │   ├── MLEnd Mini Project - Starter Kit Code.ipynb # Original starter code (for reference)
 ├── variables/
 │   ├── X_train.npy                       # Extracted features for training set
@@ -30,10 +30,11 @@ MLEnd Mini Project/
 │   ├── X_test.npy                        # Extracted features for test set
 │   ├── y_test.npy                        # Labels for test set
 │   ├── groups_test.npy                   # Groups for test set
+├── Whos_fibbing.html                     # Main project notebook in HTML
 ├── README.md                             # Project documentation
 ```
 
-The main notebook, **"Whos fibbing.ipynb"**, contains the entire workflow, from data preparation to model evaluation.
+The main notebook, **"Whos fibbing.ipynb"**, contains the entire workflow, from data preparation to model evaluation. You can view this in as a HTML file.
 
 ---
 
